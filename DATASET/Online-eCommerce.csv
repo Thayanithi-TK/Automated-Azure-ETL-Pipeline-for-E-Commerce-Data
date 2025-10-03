@@ -6,12 +6,9 @@ Order_Number,State_Code,Customer_Name,Order_Date,Status,Product,Category,Brand,C
 139378,CG,Sajal Singhal,11/01/2020,Order,Standard ATX motherboard,MotherBoard,Gigabyte,7650,9945,4,30600,39780,Aadil Khan
 139379,CG,Akhilesh Kumar,11/01/2020,Order,Compact with 1 Fan,Cabinet,Asus,1150,1495,2,2300,2990,Advika Joshi
 139380,CG,Suvankar Chakraborty,11/01/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850,1105,3,2550,3315,Ajay Sharma
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
 139381,CG,Suvankar Adhikary,12/01/2020,Order,Ergonomic Mouse,Mouse,Samsung,650,845,2,1300,1690,Ajay Sharma
 139382,CG,Rahul Kumar Prajapati,13/01/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500,9750,1,7500,9750,Roshan Kumar
 139383,JK,Sagar Jeur,14/01/2020,Order,2 TB HDD,HDD,Seagate,10000,13000,3,30000,39000,Aarvi Gupta
-,,,,,,,,,,,,,
 139384,JH,Rhushikesh Mane,15/01/2020,Order,1 TB SSD,SSD,Samsung,10500,13650,1,10500,13650,Aadil Khan
 139385,KA,Ashish Kumar,16/01/2020,Order,Intel i5 12th gen.,CPU,Intel,8500,11050,4,34000,44200,Advika Joshi
 139386,KL,Javed Akhter,17/01/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000,9100,2,14000,18200,Ajay Sharma
@@ -26,7 +23,6 @@ Order_Number,State_Code,Customer_Name,Order_Date,Status,Product,Category,Brand,C
 139395,RJ,Moinuddin Saifi,22/01/2020,Processing,Wireless Mouse,Mouse,Samsung,600,780,3,1800,2340,Aarvi Gupta
 139396,SK,Ramkrishna Das Adhikary,22/01/2020,Processing,"21"" LCD Display",Monitor,Dell,10500,13650,4,42000,54600,Vijay Singh
 139397,TN,Ranjeet Mandal,23/01/2020,Processing,2 TB HDD,HDD,Western Digital,6500,8450,1,6500,8450,Aadil Khan
-,,,,,,,,,,,,,
 139398,TR,Ashwini Adsare,24/01/2020,Processing,257 GB SSD,SSD,Samsung,4500,5850,4,18000,23400,Ajay Sharma
 139399,UK,Rajesh Variya,25/01/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500,11050,2,17000,22100,Roshan Kumar
 139400,UP,Amit Singh,26/01/2020,Processing,4GB Graphic card,Graphic Card,Nvidia,12500,16250,2,25000,32500,Aarvi Gupta
@@ -44,7 +40,6 @@ Order_Number,State_Code,Customer_Name,Order_Date,Status,Product,Category,Brand,C
 139412,AR,Kunal Patra,01/02/2020,Shipped,Standard ATX motherboard,Mouse,Gigabyte,7650,9945,3,22950,29835,Aarvi Gupta
 139413,AS,Bijendra,02/02/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150,1495,1,1150,1495,Vijay Singh
 139414,BR,Kranti Bheke,03/02/2020,Shipped,USB Backlight Keyboard,Keyboard,Dell,850,1105,1,850,1105,Aadil Khan
-,,,,,,,,,,,,,
 139415,CG,Jagdeep,03/02/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650,845,2,1300,1690,Ajay Sharma
 139416,GA,Adhir Samal,03/02/2020,Shipped,"15"" LCD Dsipaly",Monitor,Dell,7500,9750,1,7500,9750,Roshan Kumar
 139417,GJ,Dannana Jhammi,04/02/2020,Shipped,3 TB HDD,HDD,Seagate,10000,13000,3,30000,39000,Aarvi Gupta
@@ -81,7 +76,6 @@ Order_Number,State_Code,Customer_Name,Order_Date,Status,Product,Category,Brand,C
 139448,AP,Rohan Kale,03/03/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850,1105,1,850,1105,Vijay Singh
 139449,AR,Aniruddha Kekapure,04/03/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650,845,3,1950,2535,Aadil Khan
 139450,AS,Aslam Raza,05/03/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500,9750,4,30000,39000,Advika Joshi
-,,,,,,,,,,,,,
 139451,BR,Roshan Zameer,06/03/2020,Processing,4 TB HDD,HDD,Seagate,10000,13000,2,20000,26000,Roshan Kumar
 139452,CG,Rakesh Kumar Sharma,07/03/2020,Delivered,3 TB SSD,SSD,Samsung,10500,13650,3,31500,40950,Aarvi Gupta
 139453,GA,Shivanand Sahani,07/03/2020,Shipped,Intel i5 12th gen.,CPU,Intel,8500,11050,3,25500,33150,Vijay Singh
@@ -126,7 +120,6 @@ Order_Number,State_Code,Customer_Name,Order_Date,Status,Product,Category,Brand,C
 139492,GJ,Jagjeet Variya,19/03/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250,10725,1,8250,10725,Ajay Sharma
 139493,GJ,Roshan Zameer,20/03/2020,Shipped,11 GB DDR4 RAM,RAM,Samsung,2650,3445,3,7950,10335,Roshan Kumar
 139494,GJ,Binod Kumar,21/03/2020,Order,"26"" LCD Display",Monitor,Acer,12550,16315,4,50200,65260,Aarvi Gupta
-,,,,,,,,,,,,,
 139495,GJ,Shivanand Sahani,22/03/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500,18850,1,14500,18850,Aadil Khan
 139496,GJ,Vijay Mehta,23/03/2020,Delivered,USB Keyboard,Keyboard,Dell,800,1040,2,1600,2080,Advika Joshi
 139497,GJ,Bijendra,24/03/2020,Shipped,Wireless Mouse,Mouse,Samsung,600,780,3,1800,2340,Ajay Sharma
@@ -148,9 +141,6 @@ Order_Number,State_Code,Customer_Name,Order_Date,Status,Product,Category,Brand,C
 139513,TN,Haridas Balraj,25/03/2020,Shipped,20 GB DDR4 RAM,Computer Case,Hynix,6550,8515,3,19650,25545,Aadil Khan
 139514,TR,Kundan Kumar,25/03/2020,Order,Standard ATX motherboard,Mouse,Gigabyte,7650,9945,4,30600,39780,Advika Joshi
 139515,AN,Vinod Bhave,26/03/2020,Processing,Compact with 1 Fan,Cabinet,Asus,1150,1495,2,2300,2990,Ajay Sharma
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
 139516,CH,Aditya Agarwal,26/03/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850,1105,2,1700,2210,Aadil Khan
 139517,DH,Firdoush Jabee,26/03/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650,845,1,650,845,Advika Joshi
 139518,DD,Jay Prakash Kumar,26/03/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500,9750,2,15000,19500,Ajay Sharma
@@ -184,7 +174,6 @@ Order_Number,State_Code,Customer_Name,Order_Date,Status,Product,Category,Brand,C
 139546,UK,Sajal Singhal,27/03/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000,9100,3,21000,27300,Aadil Khan
 139547,UP,Akhilesh Kumar,27/03/2020,Processing,21 GB DDR4 RAM,NIC,Hynix,6550,8515,2,13100,17030,Advika Joshi
 139548,WB,Suvankar Chakraborty,27/03/2020,Delivered,Standard ATX motherboard,Printer,Gigabyte,7650,9945,2,15300,19890,Ajay Sharma
-,,,,,,,,,,,,,
 139549,TN,Suvankar Adhikary,27/03/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150,1495,3,3450,4485,Aarvi Gupta
 139550,TR,Rahul Kumar Prajapati,27/03/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850,1105,1,850,1105,Vijay Singh
 139551,AN,Sagar Jeur,27/03/2020,Processing,Ergonomic Mouse,Mouse,Samsung,650,845,4,2600,3380,Aadil Khan
@@ -196,7 +185,6 @@ Order_Number,State_Code,Customer_Name,Order_Date,Status,Product,Category,Brand,C
 139557,PY,Atif Siddiqui,27/03/2020,Shipped,9 GB DDR4 Ram,NIC,Hynix,1680,2184,2,3360,4368,Aadil Khan
 139558,OR,Aditya Agarwal,27/03/2020,Order,Micro ATX motherboard,Printer,MSI,6540,8502,3,19620,25506,Advika Joshi
 139559,PB,Firdoush Jabee,27/03/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680,3484,3,8040,10452,Ajay Sharma
-,,,,,,,,,,,,,
 139560,RJ,Jay Prakash Kumar,27/03/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250,10725,4,33000,42900,Aarvi Gupta
 139561,SK,Ashish Pandey,27/03/2020,Shipped,13 GB DDR4 RAM,RAM,Samsung,2650,3445,4,10600,13780,Vijay Singh
 139562,TN,Ajay Sharma,28/03/2020,Order,"26"" LCD Display",Monitor,Acer,12550,16315,4,50200,65260,Aadil Khan
@@ -243,9 +231,6 @@ Order_Number,State_Code,Customer_Name,Order_Date,Status,Product,Category,Brand,C
 139603,JK,Ashish Pandey,29/03/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500,11050,4,34000,44200,Vijay Singh
 139604,JH,Ajay Sharma,29/03/2020,Delivered,4GB Graphic card,Graphic Card,Nvidia,12500,16250,3,37500,48750,Aadil Khan
 139605,KA,Moinuddin Saifi,29/03/2020,Shipped,15 GB DDR4 RAM,Computer Case,Hynix,3500,4550,1,3500,4550,Advika Joshi
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
 139606,KL,Ramkrishna Das Adhikary,29/03/2020,Order,BTX motherboard,Mouse,Gigabyte,4500,5850,1,4500,5850,Vijay Singh
 139607,MP,Ranjeet Mandal,29/03/2020,Processing,10 Fans Cabinet,Cabinet,Asus,2100,2730,1,2100,2730,Aadil Khan
 139608,MH,Ashwini Adsare,29/03/2020,Delivered,Wireless Keyboard,Keyboard,Dell,1150,1495,2,2300,2990,Advika Joshi

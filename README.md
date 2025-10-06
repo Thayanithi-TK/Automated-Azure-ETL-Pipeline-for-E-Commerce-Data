@@ -48,6 +48,8 @@ Version Control -	GitHub
 -Loaded directly into Azure SQL Database as the initial raw layer\
 
 ### Transform (Databricks Processing)
+
+![Automatate_ETL_Pipline](docs/Databricks_wokflow.png)
 -Azure Databricks reads the raw SQL data\
 -Cleans, joins, and applies business logic\
 -Implements incremental load to process only new or updated records\

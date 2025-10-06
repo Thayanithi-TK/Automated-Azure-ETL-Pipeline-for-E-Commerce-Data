@@ -45,10 +45,11 @@ Version Control -	GitHub
 ## ETL Flow (Medallion Architecture)
 
 ### Extract (Raw Load to SQL Database)
-incremental_pipeline.png
+
 ![Automatate_Incremental_Pipline](docs/incremental_pipeline.png)
+
 --Raw e-commerce sales data is ingested from source files ( APIs)\
---Loaded directly into Azure SQL Database as the initial raw layer\
+--Incrementally loaded directly into Azure SQL Database as the initial raw layer
 
 ### Transform (Databricks Processing)
 

@@ -1,0 +1,3 @@
+Order_ID,Order_Date,Ship_Date,Customer_ID,Customer_Name,Segment,City,State,Country,Region,Product_ID,Product_Name,Category,Sub_Category,Sales,Quantity,Discount,Profit,Shipping_Cost,Order_Priority
+1c80527d-e1b6-4755-82ed-a2d24bc18668,21-08-2024,05-09-2024,46180e27-c11b-487e-a602-de81a9bcd3ff,Kelly Poole,Home Office,North Jeffrey,CT,Guadeloupe,India,0d91cb53-1b1c-4c4d-814c-c1f4c4790acb,Iphone,electorics,Mobile,"56,342",6,0.16,126.34,80.4,High
+aabbccdd,04-10-2025,07-10-2025,aabbccdd,Mardin,Corporate,South Sonia,MS,Belgium,India,a1b2c3,Sofa,Furniture,Sofa,524.23,1,0.13,483.66,48.93,Medium

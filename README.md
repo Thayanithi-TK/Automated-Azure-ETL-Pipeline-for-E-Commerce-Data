@@ -64,7 +64,7 @@ This project follows a **Medallion Architecture** to structure e-commerce data i
 
 ## Project Structure
 
-├── .git/
+```
 .git/
 datasets/
     e_commerce_dataset.csv
@@ -83,7 +83,7 @@ docs/
     entity_diagram.png
 LICENSE
 README.md
-
+```
 
 ## Author
 **Thayanithi K**  

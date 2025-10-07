@@ -65,23 +65,24 @@ This project follows a **Medallion Architecture** to structure e-commerce data i
 ## Project Structure
 
 ├── .git/
-├── datasets/                         
-│   ├── e_commerce_dataset.csv        
-│   └── incremental_data.csv         
-├── scripts/                         
-│   ├── Create_DB.ipynb              
-│   ├── Data_Transformations.ipynb    
-│   ├── Dim_Customer.ipynb            
-│   ├── Dim_Order.ipynb               
-│   ├── Dim_Product.ipynb             
-│   └── Fact_Sales.ipynb              
-├── docs/                            
-│   ├── data_architecture.png         
-│   ├── incremental_pipeline.png     
-│   ├── databricks_workflow.png      
-│   └── entity_diagram.png           
+├── datasets/
+│   ├── e_commerce_dataset.csv
+│   └── incremental_data.csv
+├── scripts/
+│   ├── Create_DB.ipynb
+│   ├── Data_Transformations.ipynb
+│   ├── Dim_Customer.ipynb
+│   ├── Dim_Order.ipynb
+│   ├── Dim_Product.ipynb
+│   └── Fact_Sales.ipynb
+├── docs/
+│   ├── data_architecture.png
+│   ├── incremental_pipeline.png
+│   ├── databricks_workflow.png
+│   └── entity_diagram.png
 ├── LICENSE
 └── README.md
+
 
 ## Author
 **Thayanithi K**  

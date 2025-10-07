@@ -83,7 +83,6 @@ This project follows a **Medallion Architecture** to structure e-commerce data i
 ├── LICENSE
 └── README.md
 
-
 ## Author
 **Thayanithi K**  
 📧 thayanithikarun@gmail.com  

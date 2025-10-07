@@ -64,26 +64,29 @@ This project follows a **Medallion Architecture** to structure e-commerce data i
 
 ## Project Structure
 
+# Project Structure
+
 ```
-.git/
-datasets/
-    e_commerce_dataset.csv
-    incremental_data.csv
-scripts/
-    Create_DB.ipynb
-    Data_Transformations.ipynb
-    Dim_Customer.ipynb
-    Dim_Order.ipynb
-    Dim_Product.ipynb
-    Fact_Sales.ipynb
-docs/
-    data_architecture.png
-    incremental_pipeline.png
-    databricks_workflow.png
-    entity_diagram.png
-LICENSE
-README.md
+.git/                             
+datasets/                            # Folder containing datasets
+    e_commerce_dataset.csv           # Full historical e-commerce data
+    incremental_data.csv             # New incremental data (incremental load)
+scripts/                             
+    Create_DB.ipynb                  # Notebook to create SQL tables
+    Data_Transformations.ipynb       # Cleaning and transformation logic
+    Dim_Customer.ipynb               # Dimension table: Customer
+    Dim_Order.ipynb                  # Dimension table: Order
+    Dim_Product.ipynb                # Dimension table: Product
+    Fact_Sales.ipynb                 # Fact table: Sales
+docs/                                
+    data_architecture.png            # Medallion architecture diagram
+    incremental_pipeline.png         # ADF workflow 
+    databricks_workflow.png          # Databricks workflow 
+    entity_diagram.png               # Entity Relationship Diagram (ERD)
+LICENSE                              
+README.md                            
 ```
+
 
 ## Author
 **Thayanithi K**  

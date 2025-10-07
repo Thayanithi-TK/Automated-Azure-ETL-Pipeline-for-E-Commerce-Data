@@ -63,22 +63,23 @@ This project follows a **Medallion Architecture** to structure e-commerce data i
 - Pipelines are scheduled or triggered manually for fully automated ETL processing.
 
 ## Project Structure
+
 ├── .git/
-├── datasets/                         ← Raw and incremental datasets
-│   ├── e_commerce_dataset.csv        ← Full historical e-commerce data
-│   └── incremental_data.csv          ← New incremental data
-├── scripts/                          ← ETL notebooks and scripts
-│   ├── Create_DB.ipynb               ← Notebook to create SQL tables
-│   ├── Data_Transformations.ipynb    ← Cleaning & transformation logic
-│   ├── Dim_Customer.ipynb            ← Dimension table processing
-│   ├── Dim_Order.ipynb               ← Dimension table processing
-│   ├── Dim_Product.ipynb             ← Dimension table processing
-│   └── Fact_Sales.ipynb              ← Fact table processing
-├── docs/                             ← Documentation
-│   ├── data_architecture.png         ← Medallion architecture diagram
-│   ├── incremental_pipeline.png      ← ADF Workflow
-│   ├── databricks_workflow.png       ← Databricks workflow
-│   └── entity_diagram.png            ← Entity Relationship Diagram (ERD)
+├── datasets/                         
+│   ├── e_commerce_dataset.csv        
+│   └── incremental_data.csv         
+├── scripts/                         
+│   ├── Create_DB.ipynb              
+│   ├── Data_Transformations.ipynb    
+│   ├── Dim_Customer.ipynb            
+│   ├── Dim_Order.ipynb               
+│   ├── Dim_Product.ipynb             
+│   └── Fact_Sales.ipynb              
+├── docs/                            
+│   ├── data_architecture.png         
+│   ├── incremental_pipeline.png     
+│   ├── databricks_workflow.png      
+│   └── entity_diagram.png           
 ├── LICENSE
 └── README.md
 

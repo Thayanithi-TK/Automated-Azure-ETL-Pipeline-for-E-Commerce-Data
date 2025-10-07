@@ -65,26 +65,27 @@ This project follows a **Medallion Architecture** to structure e-commerce data i
 ## Project Structure
 
 ├── .git/
-├── datasets/ ← Raw and incremental datasets
-│ ├── e_commerce_dataset.csv ← Full historical e-commerce data
-│ └── incremental_data.csv ← New incremental data
+├── datasets/                         ← Raw and incremental datasets
+│   ├── e_commerce_dataset.csv        ← Full historical e-commerce data
+│   └── incremental_data.csv          ← New incremental data
 │
-├── scripts/ ← ETL notebooks and scripts
-│ ├── Create_DB.ipynb ← Notebook to create SQL tables
-│ ├── Data_Transformations.ipynb ← Cleaning & transformation logic
-│ ├── Dim_Customer.ipynb ← Dimension table processing
-│ ├── Dim_Order.ipynb ← Dimension table processing
-│ ├── Dim_Product.ipynb ← Dimension table processing
-│ └── Fact_Sales.ipynb ← Fact table processing
+├── scripts/                          ← ETL notebooks and scripts
+│   ├── Create_DB.ipynb               ← Notebook to create SQL tables
+│   ├── Data_Transformations.ipynb    ← Cleaning & transformation logic
+│   ├── Dim_Customer.ipynb            ← Dimension table processing
+│   ├── Dim_Order.ipynb               ← Dimension table processing
+│   ├── Dim_Product.ipynb             ← Dimension table processing
+│   └── Fact_Sales.ipynb              ← Fact table processing
 │
-├── docs/ ← Documentation
-│ ├── data_architecture.png ← Medallion architecture diagram
-│ ├── incremental_pipeline.png ← ADF Workflow
-│ ├── databricks_workflow.png ← Databricks workflow
-│ └── entity_diagram.png ← Entity Relationship Diagram (ERD)
+├── docs/                             ← Documentation
+│   ├── data_architecture.png         ← Medallion architecture diagram
+│   ├── incremental_pipeline.png      ← ADF Workflow
+│   ├── databricks_workflow.png       ← Databricks workflow
+│   └── entity_diagram.png            ← Entity Relationship Diagram (ERD)
 │
 ├── LICENSE
 └── README.md
+
 
 ## Author
 

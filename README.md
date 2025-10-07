@@ -63,7 +63,6 @@ This project follows a **Medallion Architecture** to structure e-commerce data i
 - Pipelines are scheduled or triggered manually for fully automated ETL processing.
 
 ## Project Structure
-
 ├── .git/
 ├── datasets/                         ← Raw and incremental datasets
 │   ├── e_commerce_dataset.csv        ← Full historical e-commerce data
@@ -83,9 +82,7 @@ This project follows a **Medallion Architecture** to structure e-commerce data i
 ├── LICENSE
 └── README.md
 
-
 ## Author
-
 **Thayanithi K**  
 📧 thayanithikarun@gmail.com  
 🔗 LinkedIn: [www.linkedin.com/in/thayanithi-k-3b4648373](https://www.linkedin.com/in/thayanithi-k-3b4648373)
